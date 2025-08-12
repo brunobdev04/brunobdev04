@@ -10,7 +10,7 @@
 
 **Front-end:** HTML • CSS • JavaScript • ReactJS  
 **Back-end:** Java • Python • PHP   
-**Outros:** MySQL • Xampp • AstahUML •  • Git • GitHub •  Excel  
+**Outros:** MySQL • Xampp • AstahUML • Git • GitHub •  Excel  
 
 ---
 
