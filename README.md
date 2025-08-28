@@ -3,7 +3,7 @@
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** 
 ---
  Venho me desenvolvendo no momento em Front-End, criando projetos pessoais com HTML, CSS e JavaScript.
- Também possuo conhecimentos em Orientação a objetos, Estrutura de dados,  Lógica e algoritmos com Java e Python
+ Também possuo conhecimentos em Orientação a objetos, Estrutura de dados,  Lógica e algoritmos com Linguagens Java e Python
 
 ---
 ##  🛠️ Ferramentas | Habilidades
