@@ -25,4 +25,5 @@
 ## 📫 Contato
 
 - ✉️ **Email:** contato.brunobsilva@outlook.com
+- ✉️ **Email:** brunobrito.silva00@gmail.com
 
